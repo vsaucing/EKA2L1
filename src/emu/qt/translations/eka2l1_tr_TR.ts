@@ -6,7 +6,7 @@
     <message>
       <location filename="../src/utils.cpp" line="126"/>
       <source>EKA2L1 - Symbian OS emulator</source>
-      <translation>EKA2L1 - Symbian OS emulator</translation>
+      <translation>EKA2L1 - Symbian İS emülatörü</translation>
     </message>
   </context>
   <context>
@@ -14,12 +14,12 @@
     <message>
       <location filename="../src/symbian_input_dialog.ui" line="14"/>
       <source>Enter the text</source>
-      <translation type="unfinished">Enter the text</translation>
+      <translation>Yazı yazın</translation>
     </message>
     <message>
       <location filename="../src/symbian_input_dialog.ui" line="31"/>
       <source>Submit</source>
-      <translation type="unfinished">Submit</translation>
+      <translation>Gönder</translation>
     </message>
   </context>
   <context>
@@ -27,12 +27,12 @@
     <message>
       <location filename="../src/aboutdialog.ui" line="14"/>
       <source>About EKA2L1</source>
-      <translation type="unfinished">About EKA2L1</translation>
+      <translation>EKA2L1 hakkında</translation>
     </message>
     <message>
       <location filename="../src/aboutdialog.ui" line="69"/>
       <source>EKA2L1</source>
-      <translation type="unfinished">EKA2L1</translation>
+      <translation>EKA2L1</translation>
     </message>
     <message>
       <location filename="../src/aboutdialog.cpp" line="50"/>
@@ -42,32 +42,32 @@
     <message>
       <location filename="../src/aboutdialog.cpp" line="53"/>
       <source>&lt;b&gt;(C) 2018- EKA2L1 Team&lt;/b&gt;&lt;br&gt;&lt;b&gt;Thank you for using the emulator!&lt;/b&gt;&lt;br&gt;</source>
-      <translation type="unfinished">&lt;b&gt;(C) 2018- EKA2L1 Team&lt;/b&gt;&lt;br&gt;&lt;b&gt;Thank you for using the emulator!&lt;/b&gt;&lt;br&gt;</translation>
+      <translation>&lt;b&gt;(C) 2018- EKA2L1 Ekibi&lt;/b&gt;&lt;br&gt;&lt;b&gt;Emülatörü kullandığınız için teşekkür ederiz!&lt;/b&gt;&lt;br&gt;</translation>
     </message>
     <message>
       <location filename="../src/aboutdialog.cpp" line="64"/>
       <source>&lt;b&gt;Main developers:&lt;/b&gt;&lt;br&gt;</source>
-      <translation type="unfinished">&lt;b&gt;Main developers:&lt;/b&gt;&lt;br&gt;</translation>
+      <translation>&lt;b&gt;Ana geliştiriciler:&lt;/b&gt;&lt;br&gt;</translation>
     </message>
     <message>
       <location filename="../src/aboutdialog.cpp" line="78"/>
       <source>&lt;b&gt;Contributors:&lt;/b&gt;&lt;br&gt;</source>
-      <translation type="unfinished">&lt;b&gt;Contributors:&lt;/b&gt;&lt;br&gt;</translation>
+      <translation>&lt;b&gt;Katkıda bulunanlar:&lt;/b&gt;&lt;br&gt;</translation>
     </message>
     <message>
       <location filename="../src/aboutdialog.cpp" line="92"/>
       <source>&lt;b&gt;Icon:&lt;/b&gt;&lt;br&gt;</source>
-      <translation type="unfinished">&lt;b&gt;Icon:&lt;/b&gt;&lt;br&gt;</translation>
+      <translation>&lt;b&gt;İkon:&lt;/b&gt;&lt;br&gt;</translation>
     </message>
     <message>
       <location filename="../src/aboutdialog.cpp" line="106"/>
       <source>&lt;b&gt;Honors:&lt;/b&gt;&lt;br&gt;</source>
-      <translation type="unfinished">&lt;b&gt;Honors:&lt;/b&gt;&lt;br&gt;</translation>
+      <translation>&lt;b&gt;Teşekkürler:&lt;/b&gt;&lt;br&gt;</translation> # I don't think there is a better word for this.
     </message>
     <message>
       <location filename="../src/aboutdialog.cpp" line="120"/>
       <source>&lt;b&gt;Translators:&lt;/b&gt;&lt;br&gt;</source>
-      <translation type="unfinished">&lt;b&gt;Translators:&lt;/b&gt;&lt;br&gt;</translation>
+      <translation>&lt;b&gt;Çevirmenler:&lt;/b&gt;&lt;br&gt;</translation>
     </message>
   </context>
   <context>
@@ -91,42 +91,42 @@
     <message>
       <location filename="../src/applistwidget.cpp" line="724"/>
       <source>&lt;br&gt;App UID: 0x%1</source>
-      <translation type="unfinished">&lt;br&gt;App UID: 0x%1</translation>
+      <translation>&lt;br&gt;Uygulama UID'si: 0x%1</translation>
     </message>
     <message>
       <location filename="../src/applistwidget.cpp" line="796"/>
       <source>Enter a new name</source>
-      <translation type="unfinished">Enter a new name</translation>
+      <translation>Yeni bir isim gir</translation>
     </message>
     <message>
       <location filename="../src/applistwidget.cpp" line="805"/>
       <source>Update name failed</source>
-      <translation type="unfinished">Update name failed</translation>
+      <translation>İsim güncellemesi başarısız</translation>
     </message>
     <message>
       <location filename="../src/applistwidget.cpp" line="805"/>
       <source>An error occured while trying to rename the app!</source>
-      <translation type="unfinished">An error occured while trying to rename the app!</translation>
+      <translation>Uygulama yeniden adlandırılırken bir sorun oluştu!</translation>
     </message>
     <message>
       <location filename="../src/applistwidget.cpp" line="814"/>
       <source>Delete app failed</source>
-      <translation type="unfinished">Delete app failed</translation>
+      <translation>Uygulama silinemedi</translation>
     </message>
     <message>
       <location filename="../src/applistwidget.cpp" line="814"/>
       <source>An error occured while trying to delete the app!</source>
-      <translation type="unfinished">An error occured while trying to delete the app!</translation>
+      <translation>Uygulama silinirken bir sorun oluştu!</translation>
     </message>
     <message>
       <location filename="../src/applistwidget.cpp" line="834"/>
       <source>Rename</source>
-      <translation>Adlandır</translation>
+      <translation>Yeniden adlandır</translation>
     </message>
     <message>
       <location filename="../src/applistwidget.cpp" line="835"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>Sil</translation>
     </message>
   </context>
   <context>
@@ -134,17 +134,17 @@
     <message>
       <location filename="../src/btnet_dialog.ui" line="20"/>
       <source>Bluetooth netplay settings</source>
-      <translation type="unfinished">Bluetooth netplay settings</translation>
+      <translation type="unfinished">Bluetooth netplay ayarları</translation>
     </message>
     <message>
       <location filename="../src/btnet_dialog.ui" line="47"/>
       <source>Mode</source>
-      <translation type="unfinished">Mode</translation>
+      <translation>Mod</translation>
     </message>
     <message>
       <location filename="../src/btnet_dialog.ui" line="55"/>
       <source>Off</source>
-      <translation type="unfinished">Off</translation>
+      <translation>Kapalı</translation>
     </message>
     <message>
       <location filename="../src/btnet_dialog.ui" line="60"/>
@@ -154,32 +154,32 @@
     <message>
       <location filename="../src/btnet_dialog.ui" line="65"/>
       <source>LAN</source>
-      <translation type="unfinished">LAN</translation>
+      <translation>LAN</translation>
     </message>
     <message>
       <location filename="../src/btnet_dialog.ui" line="115"/>
       <source>Server address</source>
-      <translation type="unfinished">Server address</translation>
+      <translation>Sunucu adresi</translation>
     </message>
     <message>
       <location filename="../src/btnet_dialog.ui" line="134"/>
       <source>Enable UPnP (for IPv4 public play)</source>
-      <translation type="unfinished">Enable UPnP (for IPv4 public play)</translation>
+      <translation>UPnP&apos;yi etkinleştir (IPv4 herkese açık oyunlar için)</translation>
     </message>
     <message>
       <location filename="../src/btnet_dialog.ui" line="166"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>Kaydet</translation>
     </message>
     <message>
       <location filename="../src/btnet_dialog.ui" line="188"/>
       <source>Open friends&apos; IP editor</source>
-      <translation type="unfinished">Open friends&apos; IP editor</translation>
+      <translation>Arkadaşlarının IP editörünü aç</translation>
     </message>
     <message>
       <location filename="../src/btnet_dialog.ui" line="225"/>
       <source>Players with the same password will be able to see each others. This can be empty.</source>
-      <translation type="unfinished">Players with the same password will be able to see each others. This can be empty.</translation>
+      <translation>Aynı şifreye sahip oyuncular birbirlerini görebilecekler. Bu boş olabilir.</translation>
     </message>
     <message>
       <location filename="../src/btnet_dialog.ui" line="228"/>
@@ -189,32 +189,32 @@
     <message>
       <location filename="../src/btnet_dialog.ui" line="238"/>
       <source>Generate random</source>
-      <translation type="unfinished">Generate random</translation>
+      <translation>Rastgele oluştur</translation>
     </message>
     <message>
       <location filename="../src/btnet_dialog.ui" line="245"/>
       <source>Clear</source>
-      <translation type="unfinished">Clear</translation>
+      <translation>Temizle</translation>
     </message>
     <message>
       <location filename="../src/btnet_dialog.cpp" line="119"/>
       <source>Configuration not saved</source>
-      <translation type="unfinished">Configuration not saved</translation>
+      <translation>Yapılandırma kaydedilemedi</translation>
     </message>
     <message>
       <location filename="../src/btnet_dialog.cpp" line="119"/>
       <source>The Bluetooth netplay configuration has not been saved. Do you want to save?</source>
-      <translation type="unfinished">The Bluetooth netplay configuration has not been saved. Do you want to save?</translation>
+      <translation type="unfinished">Bluetooth netplay yapılandırması kaydedilmedi. Kaydetmek ister misiniz?</translation>
     </message>
     <message>
       <location filename="../src/btnet_dialog.cpp" line="127"/>
       <source>Relaunch needed</source>
-      <translation type="unfinished">Relaunch needed</translation>
+      <translation>Uygulamanın yeniden başlatılması gerekli</translation> # "Yeniden başlatma gerekli" may be misunderstood, so this is better.
     </message>
     <message>
       <location filename="../src/btnet_dialog.cpp" line="127"/>
       <source>This change will be effective on the next launch of the emulator.</source>
-      <translation type="unfinished">This change will be effective on the next launch of the emulator.</translation>
+      <translation>Bu değişiklik emülatör yeniden başlatıldığında etkili olacaktır.</translation>
     </message>
   </context>
   <context>
@@ -222,22 +222,22 @@
     <message>
       <location filename="../src/btnetplay_friends_dialog.cpp" line="70"/>
       <source>Modify friends&apos; IP addresses</source>
-      <translation type="unfinished">Modify friends&apos; IP addresses</translation>
+      <translation>Arkadaşlarının IP adreslerini düzenle</translation>
     </message>
     <message>
       <location filename="../src/btnetplay_friends_dialog.cpp" line="85"/>
       <source>IP address (IPv4 or IPv6)</source>
-      <translation type="unfinished">IP address (IPv4 or IPv6)</translation>
+      <translation>IP adresi (IPv4 veya IPv6)</translation>
     </message>
     <message>
       <location filename="../src/btnetplay_friends_dialog.cpp" line="90"/>
       <source>Port (can be empty)</source>
-      <translation type="unfinished">Port (can be empty)</translation>
+      <translation>Port (boş olabilir)</translation>
     </message>
     <message>
       <location filename="../src/btnetplay_friends_dialog.cpp" line="133"/>
       <source>Add more</source>
-      <translation type="unfinished">Add more</translation>
+      <translation>Daha fazla ekle</translation>
     </message>
     <message>
       <location filename="../src/btnetplay_friends_dialog.cpp" line="134"/>
@@ -247,48 +247,48 @@
     <message>
       <location filename="../src/btnetplay_friends_dialog.cpp" line="135"/>
       <source>Update</source>
-      <translation type="unfinished">Update</translation>
+      <translation>Güncelle</translation>
     </message>
     <message>
       <location filename="../src/btnetplay_friends_dialog.cpp" line="201"/>
       <source>Update friends success!</source>
-      <translation type="unfinished">Update friends success!</translation>
+      <translation>Arkadaşları güncelleme başarılı!</translation>
     </message>
     <message>
       <location filename="../src/btnetplay_friends_dialog.cpp" line="201"/>
       <source>Friends&apos; IP addresses have been successfully saved!</source>
-      <translation type="unfinished">Friends&apos; IP addresses have been successfully saved!</translation>
+      <translation>Arkadaşların IP adresleri başarıyla kaydedildi!</translation>
     </message>
     <message>
       <location filename="../src/btnetplay_friends_dialog.cpp" line="214"/>
       <source>Friend %1 has empty IP address!
 </source>
-      <translation type="unfinished">Friend %1 has empty IP address!
+      <translation>Friend %1&apos;in IP adresi boş!
 </translation>
     </message>
     <message>
       <location filename="../src/btnetplay_friends_dialog.cpp" line="216"/>
       <source>Friend %1 has invalid IP address!
 </source>
-      <translation type="unfinished">Friend %1 has invalid IP address!
+      <translation>Friend %1&apos;in IP adresi geçersiz!
 </translation>
     </message>
     <message>
       <location filename="../src/btnetplay_friends_dialog.cpp" line="221"/>
-      <source>Friend %1 has invalid port number (must be between 0 and 65535)!
+      <source>Friend %1 has invalid port number (must be between 0 and 65535)!!
 </source>
-      <translation type="unfinished">Friend %1 has invalid port number (must be between 0 and 65535)!
+      <translation>Friend %1&apos;in port numarası geçersiz (0 ile 65535 arasında olmalıdır)!
 </translation>
     </message>
     <message>
       <location filename="../src/btnetplay_friends_dialog.cpp" line="248"/>
       <source>Some errors in updating friends!</source>
-      <translation type="unfinished">Some errors in updating friends!</translation>
+      <translation>Arkadaşları güncellemede birkaç hata oluştu!</translation>
     </message>
     <message>
       <location filename="../src/btnetplay_friends_dialog.cpp" line="249"/>
       <source>Some friends&apos; IP addresses can&apos;t be updated (see detailed text).&lt;br&gt;Addresses that are able to update have been saved.</source>
-      <translation type="unfinished">Some friends&apos; IP addresses can&apos;t be updated (see detailed text).&lt;br&gt;Addresses that are able to update have been saved.</translation>
+      <translation>Bazı arkadaşlarının IP adresleri güncellenemedi (ayrıntılı yazıyı okuyun).&lt;br&gt;Güncellenebilmiş adresler kaydedildi.</translation>
     </message>
   </context>
   <context>
@@ -296,29 +296,29 @@
     <message>
       <location filename="../src/device_install_dialog.ui" line="20"/>
       <source>Device install wizard</source>
-      <translation type="unfinished">Device install wizard</translation>
+      <translation>Cihaz kurulum sihirbazı</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.ui" line="55"/>
       <location filename="../src/device_install_dialog.ui" line="174"/>
       <location filename="../src/device_install_dialog.ui" line="207"/>
       <source>Browse</source>
-      <translation type="unfinished">Browse</translation>
+      <translation>Göz at</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.ui" line="80"/>
       <source>Choose the installation method</source>
-      <translation type="unfinished">Choose the installation method</translation>
+      <translation>Kurulum yöntemini seçin</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.ui" line="94"/>
       <source>Device dump (RPKG + ROM)</source>
-      <translation type="unfinished">Device dump (RPKG + ROM)</translation>
+      <translation type="unfinished">Cihaz yazılımının kopyası (RPKG + ROM)</translation> # There is not a good word for "dump" so I had to do this... Still unfinished though, maybe someone can do better.
     </message>
     <message>
       <location filename="../src/device_install_dialog.ui" line="99"/>
       <source>Firmware (VPL)</source>
-      <translation type="unfinished">Firmware (VPL)</translation>
+      <translation>Donanım yazılımı (VPL)</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.ui" line="125"/>
@@ -333,107 +333,107 @@
     <message>
       <location filename="../src/device_install_dialog.cpp" line="117"/>
       <source>Choose the firmware variant to install</source>
-      <translation type="unfinished">Choose the firmware variant to install</translation>
+      <translation>Kurulacak donanım yazılımı varyantını seç</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.cpp" line="199"/>
       <source>Installation completed</source>
-      <translation type="unfinished">Installation completed</translation>
+      <translation>Kurulum tamamlandı</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.cpp" line="200"/>
       <source>Device %1 (%2) has been successfully installed!</source>
-      <translation type="unfinished">Device %1 (%2) has been successfully installed!</translation>
+      <translation>Device %1 (%2) başarılı şekilde kuruldu</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.cpp" line="208"/>
       <source>The device has already been installed!</source>
-      <translation type="unfinished">The device has already been installed!</translation>
+      <translation>Cihaz zaten kurulu!</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.cpp" line="212"/>
       <source>Fail to determine product information from the dump!</source>
-      <translation type="unfinished">Fail to determine product information from the dump!</translation>
+      <translation>Cihaz yazılımından ürün bilgisi alınamadı!</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.cpp" line="216"/>
       <source>One of the FPSX files provided in the firmware is corrupted!</source>
-      <translation type="unfinished">One of the FPSX files provided in the firmware is corrupted!</translation>
+      <translation">Cihaz yazılımındaki bir FPSX dosyası bozulmuş!</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.cpp" line="220"/>
       <source>An unknown error has occured. Please contact the developers with your log!</source>
-      <translation type="unfinished">An unknown error has occured. Please contact the developers with your log!</translation>
+      <translation>Bilinmeyen bir hata oluştu. Günlük dosyalarınla geliştiricilerle iletişime geç!</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.cpp" line="224"/>
       <source>The disk space is insufficient to perform the device install! Please free your disk space!</source>
-      <translation type="unfinished">The disk space is insufficient to perform the device install! Please free your disk space!</translation>
+      <translation>Disk alanı cihaz kurulumu için yetersiz! Lütfen alan açın!</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.cpp" line="228"/>
       <source>Some files provided for installation do not exist anymore. Please keep them intact until the installation is done!</source>
-      <translation type="unfinished">Some files provided for installation do not exist anymore. Please keep them intact until the installation is done!</translation>
+      <translation>Kurulum için kullanılacak bazı dosyalar artık bulunmuyor. Lütfen kurulum tamamlanana kadar bu dosyaları bulundurun!</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.cpp" line="232"/>
       <source>The ROFS in the firmware file is corrupted! Please make sure your firmware files are not corrupted.</source>
-      <translation type="unfinished">The ROFS in the firmware file is corrupted! Please make sure your firmware files are not corrupted.</translation>
+      <translation>Donanım yazılımındaki ROFS bozulmuş! Lütfen donanım yazılımı dosyalarınızın bozulmadığından emin olun.</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.cpp" line="236"/>
       <source>Fail to copy ROM file!</source>
-      <translation type="unfinished">Fail to copy ROM file!</translation>
+      <translation>ROM dosyası kopyalanamadı!</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.cpp" line="240"/>
       <source>The provided ROM is corrupted! Please make sure your ROM is valid!</source>
-      <translation type="unfinished">The provided ROM is corrupted! Please make sure your ROM is valid!</translation>
+      <translation>Verilen ROM dosyası bozulmuş! Lütfen ROM dosyanızın geçerli olduğundan emin olun!</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.cpp" line="244"/>
       <source>The provided RPKG is corrupted! Please make sure your RPKG is valid!</source>
-      <translation type="unfinished">The provided RPKG is corrupted! Please make sure your RPKG is valid!</translation>
+      <translation>Verilen RPKG bozuk! Lütfen RPKG&apos;nin geçerli olduğundan emin olun!</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.cpp" line="248"/>
       <source>The provided VPL file is invalid. Please check your firmware files again!</source>
-      <translation type="unfinished">The provided VPL file is invalid. Please check your firmware files again!</translation>
+      <translation>Verilen VPL dosyası bozuk. Lütfen donanım yazılımı dosyalarınızı tekrar kontrol edin!</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.cpp" line="256"/>
       <source>Installation failed</source>
-      <translation type="unfinished">Installation failed</translation>
+      <translation>Kurulum başarısız</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.cpp" line="265"/>
       <source>Choose VPL file</source>
-      <translation type="unfinished">Choose VPL file</translation>
+      <translation>VPL dosyası seç</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.cpp" line="266"/>
       <source>VPL file (*.vpl);;All files (*.*)</source>
-      <translation type="unfinished">VPL file (*.vpl);;All files (*.*)</translation>
+      <translation>VPL dosyası (*.vpl);;Tüm dosyalar (*.*)</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.cpp" line="275"/>
       <source>Choose the ROM</source>
-      <translation type="unfinished">Choose the ROM</translation>
+      <translation>ROM dosyasını seçin</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.cpp" line="276"/>
       <source>ROM file (*.rom *.ROM);;All files (*.*)</source>
-      <translation type="unfinished">ROM file (*.rom *.ROM);;All files (*.*)</translation>
+      <translation>ROM dosyası (*.rom *.ROM);;Tüm dosyalar (*.*)</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.cpp" line="300"/>
       <source>Choose the RPKG</source>
-      <translation type="unfinished">Choose the RPKG</translation>
+      <translation type="unfinished">RPKG&apos;yi seçin</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.cpp" line="301"/>
       <source>RPKG file (*.rpkg *.RPKG);;All files (*.*</source>
-      <translation type="unfinished">RPKG file (*.rpkg *.RPKG);;All files (*.*</translation>
+      <translation type="unfinished">RPKG dosyası (*.rpkg *.RPKG);;Tüm dosyalar (*.*</translation>
     </message>
   </context>
   <context>
@@ -451,33 +451,33 @@
     <message>
       <location filename="../src/btnmap/editor_widget.ui" line="40"/>
       <source>Joystick</source>
-      <translation type="unfinished">Joystick</translation>
+      <translation type="unfinished">Oyun kolu</translation>
     </message>
     <message>
       <location filename="../src/btnmap/editor_widget.ui" line="45"/>
       <source>Single touch</source>
-      <translation type="unfinished">Single touch</translation>
+      <translation type="unfinished">Tek dokunma</translation>
     </message>
     <message>
       <location filename="../src/btnmap/editor_widget.ui" line="64"/>
       <source>For app: </source>
-      <translation type="unfinished">For app: </translation>
+      <translation>Şu uygulama için: </translation>
     </message>
     <message>
       <location filename="../src/btnmap/editor_widget.ui" line="105"/>
       <location filename="../src/btnmap/editor_widget.cpp" line="274"/>
       <source>Save and hide editor</source>
-      <translation type="unfinished">Save and hide editor</translation>
+      <translation>Kaydet ve editörü gizle</translation>
     </message>
     <message>
       <location filename="../src/btnmap/editor_widget.ui" line="136"/>
       <source>Profile</source>
-      <translation type="unfinished">Profile</translation>
+      <translation>Profil</translation>
     </message>
     <message>
       <location filename="../src/btnmap/editor_widget.ui" line="146"/>
       <source>Add</source>
-      <translation type="unfinished">Add</translation>
+      <translation>Ekle</translation>
     </message>
     <message>
       <location filename="../src/btnmap/editor_widget.ui" line="153"/>
@@ -492,42 +492,42 @@
     <message>
       <location filename="../src/btnmap/editor_widget.ui" line="212"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>Düzenle</translation>
     </message>
     <message>
       <location filename="../src/btnmap/editor_widget.ui" line="222"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>Sil</translation>
     </message>
     <message>
       <location filename="../src/btnmap/editor_widget.cpp" line="50"/>
       <source>Please wait for a game to be active!</source>
-      <translation type="unfinished">Please wait for a game to be active!</translation>
+      <translation>Lütfen bir oyunun aktif olması için bekleyin!</translation>
     </message>
     <message>
       <location filename="../src/btnmap/editor_widget.cpp" line="89"/>
       <source>For app: %1 (0x%2)</source>
-      <translation type="unfinished">For app: %1 (0x%2)</translation>
+      <translation>Şu uygulama için: %1 (0x%2)</translation>
     </message>
     <message>
       <location filename="../src/btnmap/editor_widget.cpp" line="151"/>
       <source>Enter profile name</source>
-      <translation type="unfinished">Enter profile name</translation>
+      <translation>Profil ismi girin</translation>
     </message>
     <message>
       <location filename="../src/btnmap/editor_widget.cpp" line="164"/>
       <source>Error creating profile!</source>
-      <translation type="unfinished">Error creating profile!</translation>
+      <translation>Profil oluşturmada hata!</translation>
     </message>
     <message>
       <location filename="../src/btnmap/editor_widget.cpp" line="164"/>
       <source>Profile name contains special characters or system error encountered!</source>
-      <translation type="unfinished">Profile name contains special characters or system error encountered!</translation>
+      <translation>Profil ismi özel karakter içeriyor veya bir sistem hatası oluştu!</translation>
     </message>
     <message>
       <location filename="../src/btnmap/editor_widget.cpp" line="285"/>
       <source>Show editor</source>
-      <translation type="unfinished">Show editor</translation>
+      <translation>Editörü göster</translation>
     </message>
   </context>
   <context>
@@ -535,22 +535,22 @@
     <message>
       <location filename="../src/launch_process_dialog.ui" line="14"/>
       <source>Launch process</source>
-      <translation type="unfinished">Launch process</translation>
+      <translation>İşlemi başlat</translation>
     </message>
     <message>
       <location filename="../src/launch_process_dialog.ui" line="31"/>
       <source>Arguments</source>
-      <translation type="unfinished">Arguments</translation>
+      <translation>Argümanlar</translation>
     </message>
     <message>
       <location filename="../src/launch_process_dialog.ui" line="51"/>
       <source>Executable path</source>
-      <translation type="unfinished">Executable path</translation>
+      <translation>Çalıştırılabilir dosyanın konumu</translation>
     </message>
     <message>
       <location filename="../src/launch_process_dialog.ui" line="78"/>
       <source>Launch</source>
-      <translation type="unfinished">Launch</translation>
+      <translation>Başlat</translation>
     </message>
     <message>
       <location filename="../src/launch_process_dialog.ui" line="85"/>
@@ -561,12 +561,12 @@
       <location filename="../src/launch_process_dialog.cpp" line="22"/>
       <location filename="../src/launch_process_dialog.cpp" line="33"/>
       <source>Launch failed</source>
-      <translation type="unfinished">Launch failed</translation>
+      <translation>Başlatma başarısız</translation>
     </message>
     <message>
       <location filename="../src/launch_process_dialog.cpp" line="22"/>
       <source>The executable path field is empty!</source>
-      <translation type="unfinished">The executable path field is empty!</translation>
+      <translation>Çalıştırılabilir dosya konumu boş!</translation>
     </message>
     <message>
       <location filename="../src/launch_process_dialog.cpp" line="33"/>
