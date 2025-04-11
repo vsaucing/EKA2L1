@@ -6,7 +6,7 @@
     <message>
       <location filename="../src/utils.cpp" line="126"/>
       <source>EKA2L1 - Symbian OS emulator</source>
-      <translation>EKA2L1 - Symbian İS emülatörü</translation>
+      <translation>EKA2L1 - Symbian İS öykünücüsü</translation>
     </message>
   </context>
   <context>
@@ -428,12 +428,12 @@
     <message>
       <location filename="../src/device_install_dialog.cpp" line="300"/>
       <source>Choose the RPKG</source>
-      <translation type="unfinished">RPKG&apos;yi seçin</translation>
+      <translation>RPKG&apos;yi seçin</translation>
     </message>
     <message>
       <location filename="../src/device_install_dialog.cpp" line="301"/>
       <source>RPKG file (*.rpkg *.RPKG);;All files (*.*</source>
-      <translation type="unfinished">RPKG dosyası (*.rpkg *.RPKG);;Tüm dosyalar (*.*</translation>
+      <translation>RPKG dosyası (*.rpkg *.RPKG);;Tüm dosyalar (*.*</translation>
     </message>
   </context>
   <context>
@@ -451,7 +451,7 @@
     <message>
       <location filename="../src/btnmap/editor_widget.ui" line="40"/>
       <source>Joystick</source>
-      <translation type="unfinished">Oyun kolu</translation>
+      <translation>Oyun kolu</translation>
     </message>
     <message>
       <location filename="../src/btnmap/editor_widget.ui" line="45"/>
@@ -487,7 +487,7 @@
     <message>
       <location filename="../src/btnmap/editor_widget.ui" line="181"/>
       <source>Profiles are saved per app/game. Press &lt;b&gt;Edit&lt;/b&gt; to enter Edit mode. To delete mapping element, press &lt;b&gt;Delete&lt;/b&gt; and click on the element you want to remove.</source>
-      <translation type="unfinished">Profiles are saved per app/game. Press &lt;b&gt;Edit&lt;/b&gt; to enter Edit mode. To delete mapping element, press &lt;b&gt;Delete&lt;/b&gt; and click on the element you want to remove.</translation>
+      <translation type="unfinished">Profiller uygulama/oyun başına kaydedilir. &lt;b&gt;Düzenle&lt;/b&gt;&aposye basarak düzenleme moduna geç. To delete mapping element, press &lt;b&gt;Sil;/b&gt; and click on the element you want to remove.</translation>
     </message>
     <message>
       <location filename="../src/btnmap/editor_widget.ui" line="212"/>
@@ -571,7 +571,7 @@
     <message>
       <location filename="../src/launch_process_dialog.cpp" line="33"/>
       <source>The executable path is invalid or the executable is corrupted. Check the log for more info!</source>
-      <translation type="unfinished">The executable path is invalid or the executable is corrupted. Check the log for more info!</translation>
+      <translation type="unfinished">Çalıştırılabilir dosyanın konumu geçersiz veya dosya bozulmuş. Daha fazla bilgi için günlüğü kontrol edin!</translation>
     </message>
   </context>
   <context>
@@ -604,7 +604,7 @@
     <message>
       <location filename="../src/mainwindow.ui" line="104"/>
       <source>Rotate screen</source>
-      <translation type="unfinished">Rotate screen</translation>
+      <translation>Ekranı döndür</translation>
     </message>
     <message>
       <location filename="../src/mainwindow.ui" line="117"/>
@@ -614,12 +614,12 @@
     <message>
       <location filename="../src/mainwindow.ui" line="124"/>
       <source>Emulation</source>
-      <translation type="unfinished">Emulation</translation>
+      <translation>Öykünüm</translation>
     </message>
     <message>
       <location filename="../src/mainwindow.ui" line="134"/>
       <source>Bluetooth</source>
-      <translation type="unfinished">Bluetooth</translation>
+      <translation>Bluetooth</translation>
     </message>
     <message>
       <location filename="../src/mainwindow.ui" line="138"/>
@@ -649,7 +649,7 @@
     <message>
       <location filename="../src/mainwindow.ui" line="177"/>
       <source>Package manager</source>
-      <translation type="unfinished">Package manager</translation>
+      <translation>Paket yöneticisi</translation>
     </message>
     <message>
       <location filename="../src/mainwindow.ui" line="182"/>
@@ -704,17 +704,17 @@
     <message>
       <location filename="../src/mainwindow.ui" line="279"/>
       <source>Folder</source>
-      <translation type="unfinished">Folder</translation>
+      <translation>Klasör</translation>
     </message>
     <message>
       <location filename="../src/mainwindow.ui" line="289"/>
       <source>Refresh app list</source>
-      <translation type="unfinished">Refresh app list</translation>
+      <translation>Uygulama listesini güncelle</translation>
     </message>
     <message>
       <location filename="../src/mainwindow.ui" line="294"/>
       <source>Friends&apos;s IP addresses</source>
-      <translation type="unfinished">Friends&apos;s IP addresses</translation>
+      <translation>Arkadaşların IP adresleri</translation>
     </message>
     <message>
       <location filename="../src/mainwindow.ui" line="299"/>
@@ -734,7 +734,7 @@
     <message>
       <location filename="../src/mainwindow.ui" line="314"/>
       <source>Check for update</source>
-      <translation type="unfinished">Check for update</translation>
+      <translation>Güncellemeleri kontrol et</translation>
     </message>
     <message>
       <location filename="../src/mainwindow.ui" line="319"/>
@@ -744,7 +744,7 @@
     <message>
       <location filename="../src/mainwindow.ui" line="329"/>
       <source>Configure</source>
-      <translation type="unfinished">Configure</translation>
+      <translation type="unfinished">Konfigüre et</translation>
     </message>
     <message>
       <location filename="../src/mainwindow.ui" line="340"/>
@@ -754,12 +754,12 @@
     <message>
       <location filename="../src/mainwindow.cpp" line="268"/>
       <source>Clear menu</source>
-      <translation type="unfinished">Clear menu</translation>
+      <translation>Menüyü temizle</translation>
     </message>
     <message>
       <location filename="../src/mainwindow.cpp" line="345"/>
       <source>Touchscreen disabled</source>
-      <translation type="unfinished">Touchscreen disabled</translation>
+      <translation>Dokunmatik ekran devre dışı bırakıldı</translation>
     </message>
     <message>
       <location filename="../src/mainwindow.cpp" line="345"/>
@@ -770,17 +770,17 @@
       <location filename="../src/mainwindow.cpp" line="346"/>
       <location filename="../src/mainwindow.cpp" line="427"/>
       <source>Don&apos;t show this again</source>
-      <translation type="unfinished">Don&apos;t show this again</translation>
+      <translation type="unfinished">Bunu tekrar gösterme</translation>
     </message>
     <message>
       <location filename="../src/mainwindow.cpp" line="426"/>
       <source>No device installed</source>
-      <translation type="unfinished">No device installed</translation>
+      <translation type="unfinished">Bir cihaz kurulmadı</translation>
     </message>
     <message>
       <location filename="../src/mainwindow.cpp" line="426"/>
       <source>You have not installed any device. Please install a device or follow the installation instructions on EKA2L1&apos;s GitHub wiki page.</source>
-      <translation type="unfinished">You have not installed any device. Please install a device or follow the installation instructions on EKA2L1&apos;s GitHub wiki page.</translation>
+      <translation type="unfinished">Herhangi bir cihaz kurmadınız. Lütfen bir cihaz kurun veya EKA2L1&apos;in Github viki sayfasına bakın.</translation>
     </message>
     <message>
       <location filename="../src/mainwindow.cpp" line="686"/>
